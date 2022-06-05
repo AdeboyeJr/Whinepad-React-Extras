@@ -8,7 +8,7 @@ sh scripts/build.sh
 # minify JS
 uglifyjs bundle.js -o __deployme/bundle.js
 #minify CSS
-css-minify bundle.css > __deployme/bundle.css
+minify bundle.css > __deployme/bundle.css
 # copy HTML and images
 cp index.html __deployme/index.html
 cp -r images/ __deployme/images/
