@@ -1,8 +1,8 @@
 .Logo {
-    background-image: url('../../images/react-logo.svg');
-    background-size: cover;
-    display: inline-block;
-    height: 50px;
-    vertical-align: middle;
-    width: 50px;
+    background: purple url('../../images/whine-logo.png');
+  background-size: cover;
+  display: inline-block;
+  height: 60px;
+  vertical-align: middle;
+  width: 100px;
 }
