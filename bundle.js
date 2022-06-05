@@ -20,7 +20,7 @@ _reactDom2.default.render(_react2.default.createElement(
     'h1',
     null,
     _react2.default.createElement(_Logo2.default, null),
-    ' Welcom to The App!'
+    ' Welcome to The App!'
 ), document.getElementById('app'));
 },{"./components/Logo":2,"react":8,"react-dom":5}],2:[function(require,module,exports){
 "use strict";

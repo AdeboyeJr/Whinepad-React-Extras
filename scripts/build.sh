@@ -5,4 +5,4 @@ browserify js/build/app.js -o bundle.js
 # css package
 cat css/*/* css/*.css | sed 's/..\/..\/images/images/g' > bundle.css
 # done
-data; echo;
+date; echo;
