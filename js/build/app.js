@@ -1,5 +1,4 @@
 'use strict';
-'use-script';
 
 var _react = require('react');
 
